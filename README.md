@@ -22,7 +22,7 @@ I enjoy the challenge of transforming ideas into functional and user-friendly ap
 ## Projects
 I love bringing ideas to life through coding. Here are a few noteworthy projects:
 
-1. **AurtMix:** Discord bot.
+1. **AurtMix:** [Discord bot](https://aurtmix.xyz).
 
 Feel free to explore the repositories to learn more about these projects.
 
